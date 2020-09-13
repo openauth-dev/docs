@@ -1,4 +1,5 @@
 - ## General
+    - [Get started](get_started)
     - [Create an application](application_create)
 - ## Developer
     - [authorization](authorization)
